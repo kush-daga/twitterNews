@@ -16,4 +16,5 @@ python-editor==1.0.3
 six==1.11.0
 SQLAlchemy==1.2.11
 Werkzeug==0.14.1
+And a Fully charged laptop
 
