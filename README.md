@@ -1,4 +1,4 @@
 
 # twitterNews
-This gets the latest hashtags on twitter india and shows the top news related to it.
+This repo shows top news related to the trending hashstags on 'Twitter India'.
 
